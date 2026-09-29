@@ -83,3 +83,10 @@ User Input
           ├── Budget
           ├── Packing List
           └── Travel Tips
+## 📝 Project Summary
+
+The **AI Travel Planner Agent** is a Generative AI application designed to simplify travel planning by generating personalized trip plans from a user's destination, budget, duration, and travel preferences.
+
+By combining **Python, Streamlit, LangChain, Groq, and Llama 3.3 70B**, the project demonstrates how Large Language Models can be integrated into a practical, interactive application. The project covers the complete flow from collecting user requirements to generating a structured travel plan containing attractions, accommodations, restaurants, day-wise itineraries, budget estimates, packing suggestions, and travel tips.
+
+Overall, this project demonstrates practical experience in **Generative AI, LLM integration, prompt engineering, API integration, and Streamlit application development**, while providing a foundation for future enhancements such as real-time travel data, maps, weather, flight and hotel APIs, and itinerary export.
